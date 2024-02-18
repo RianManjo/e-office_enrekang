@@ -167,10 +167,15 @@ body {
   animation: muncul 1s ease-in-out 2.2s forwards; 
 }
 
-.form i {
+/* .form i {
   right: 30px;
   position: relative;
-  /* padding-left: -220px; */
+  
+} */
+
+.form i {
+  position: absolute;
+  
 }
 
 .form input {
